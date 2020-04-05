@@ -155,7 +155,7 @@
 ## 不要妄自菲薄
 
 - Google 的工程师都是才智过人的。但是，就算是工作在 Google 的他们，仍然会因为觉得自己不够聪明而感到一种不安。
-- [天才程序员的神话](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [x][天才程序员的神话](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
 ## 关于 Google
 
